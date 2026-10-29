@@ -1,0 +1,18 @@
+# Dépendances frontend (React)
+compte-client/node_modules/
+
+# Build frontend (React)
+compte-client/build/
+
+# Build backend (Maven / Spring Boot)
+backend-comptes/target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Divers
+*.log
+Thumbs.db
+.DS_Store
